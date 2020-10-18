@@ -6,6 +6,7 @@ public class x {
         StringBuffer STRBUF = new StringBuffer();
         STRBUF.append("readonly a");
         STRBUF.append("\n");
+        STRBUF.append("\n");
         STRBUF.append("unset variable_name");
         /*STRBUF.append("your_name='abc'");
         STRBUF.append("\n");
