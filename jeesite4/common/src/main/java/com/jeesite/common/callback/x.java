@@ -7,6 +7,7 @@ public class x {
         STRBUF.append("readonly a");
         STRBUF.append("\n");
         STRBUF.append("\n");
+        System.out.println("\n");
         STRBUF.append("unset variable_name");
         /*STRBUF.append("your_name='abc'");
         STRBUF.append("\n");
